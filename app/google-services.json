@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "401827097206",
+    "firebase_url": "https://fixup-ed981.firebaseio.com",
+    "project_id": "fixup-ed981",
+    "storage_bucket": "fixup-ed981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401827097206:android:82c7f525c9df2930",
+        "android_client_info": {
+          "package_name": "com.se.fixup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401827097206-4npu90s58t88u4nka0o7s8f6lpa05vgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.se.fixup",
+            "certificate_hash": "359a34b2266dccdf3c57888f414a1a2c6036f76b"
+          }
+        },
+        {
+          "client_id": "401827097206-8lbmi0sugfnd6tjq87gug6e7jopga47o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8H4TMQAdkXmMn4uOg4TpYG23PpGCLPI"
+
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401827097206-8lbmi0sugfnd6tjq87gug6e7jopga47o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
